@@ -1,2 +1,6 @@
-# try-react-parcel
-Try React with Parcel
+# Try React with Parcel
+
+## tl;dr
+
+    pnpm init
+    pnpm start
