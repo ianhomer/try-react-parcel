@@ -4,3 +4,7 @@
 
     pnpm init
     pnpm start
+
+## Background Reading
+
+<https://parceljs.org/recipes/react/>
