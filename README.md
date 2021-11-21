@@ -12,7 +12,7 @@ Install and start
 Build and test distribution
 
     pnpm build
-    python3 -m http.server -d dist
+    pnpm serve
 
 ## Background Reading
 
